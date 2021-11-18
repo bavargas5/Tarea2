@@ -123,3 +123,5 @@ Primero transformamos los ms en s por lo cual
 - Crear un video didáctico el cual explique los ejercicios que se han resuelto hace que el estudiante demuestre todo lo que aprendió al realizar todas las actividades planteadas. 
 
 ## BIBLIOGRAFÍA
+
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
