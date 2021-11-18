@@ -14,7 +14,7 @@ Organizar la información extraída, por medio de organizadores gráficos, para 
 
 ## MARCO TEÓRICO (RESUMEN)
 
-[](https://github.com/bavargas5/Tarea2/blob/main/IMG/IMG/1.png)!
+![](https://github.com/bavargas5/Tarea2/blob/main/IMG/IMG/1.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
