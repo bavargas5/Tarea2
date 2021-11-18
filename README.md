@@ -137,37 +137,61 @@ Conociendo que MW=1*10^6
 a)	1 000 000 W 
 Recorremos la coma para la derecha 6 espacios, por lo cual nos queda:
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/4.png)
+
 b)	3*10^6 W
 
 Como este literal ya está en función del prefijo métrico MW, solo:
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/5.png)
 
 c)	15*10^7 W
 
 Para este caso solo recorremos un cero a la derecha y nos queda:
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/6.png)
+
 d)	8700 KW
+
  Lo que haremos para resolver este literal es:
+
  
 Conociendo que KW= 1*10^3 
 
+
 Entonces recorremos la coma para la izquierda 3 espacios y nos queda:
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/7.png)
+
 **9. Convierta las siguientes cantidades en microwatts:**
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/8.png)
 
 Para resolver los literales, debemos tener en cuenta que uW= 1*10^-6
 
 a)	2 W
+
 Debemos recorrer en este caso la coma para la derecha 6 espacios por lo que:
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/9.png)
+
 b)	0,000 5 W
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/10.png)
+
 Con este ejercicio también debemos recorrer la coma 6 espacios a la derecha:
 
 c)	0,25 mW
 
 En este caso ya tenemos en mW por lo cual solo recorremos la coma 3 espacios a la derecha 
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/11.png)
+
 d)	0,00667 mW
+
 Como en el caso anterior ya tenemos en mW por lo cual solo recorreremos la coma 3 espacios a la derecha 
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/12.png)
 
 **11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**
 
@@ -175,18 +199,30 @@ Tenemos los siguientes datos P=100 mW debemos transformar a W por lo que P =0,1w
 
 EL tiempo es 24 h por lo que transformaremos a s
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/13.png)
+
 Después remplazamos todos los datos en la formula
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/14.png)
 
 **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
 Para realizar este ejercicio lo haremos con una regla de tres simple
 
 Por lo que tenemos los siguientes datos t=31 días y P= 1500 KWh
+
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/15.png)
+
 Transformamos las unidades
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/16.png)
 
 **15. Convierta 6700 watts-segundos en kWh.**
 
 En este caso debemos transformar las unidades para lo cual
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/17.png)
 
 **17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
 
@@ -194,10 +230,18 @@ Para este ejercicio tenemos los siguientes datos V=75v, I=2A
 
 Usamos la ley de ohm para encontrar el valor de la resistencia
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/18.png)
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/19.png)
+
+
 **19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
 
 Para este ejercicio tenemos los datos de V=120v, I=3A
+
 Usaremos la formula de la potencia en función del voltaje y la corriente
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/20.png)
 
 **21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
 
