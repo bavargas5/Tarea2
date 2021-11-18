@@ -107,17 +107,150 @@ Respuesta: La grafica es una línea recta e indica la relación que existen entr
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/IMG/IMG/22.png)
 
+
+
 **CAP 4 3-37**
 
 **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
 
 Un watt(w) es la cantidad de potencia cuando se utiliza un joule en un segundo
+
 P =350 J/S
 
 **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
 
 Primero transformamos los ms en s por lo cual
 
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/1.png)
+
+Después reemplazamos en la formula 
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/2.png)
+
+
+**7. Convierta las siguientes cantidades en megawatts:**
+
+![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/3.png)
+
+Conociendo que MW=1*10^6
+
+a)	1 000 000 W 
+Recorremos la coma para la derecha 6 espacios, por lo cual nos queda:
+
+b)	3*10^6 W
+
+Como este literal ya está en función del prefijo métrico MW, solo:
+
+c)	15*10^7 W
+
+Para este caso solo recorremos un cero a la derecha y nos queda:
+
+d)	8700 KW
+ Lo que haremos para resolver este literal es:
+ 
+Conociendo que KW= 1*10^3 
+
+Entonces recorremos la coma para la izquierda 3 espacios y nos queda:
+
+**9. Convierta las siguientes cantidades en microwatts:**
+
+Para resolver los literales, debemos tener en cuenta que uW= 1*10^-6
+
+a)	2 W
+Debemos recorrer en este caso la coma para la derecha 6 espacios por lo que:
+
+b)	0,000 5 W
+Con este ejercicio también debemos recorrer la coma 6 espacios a la derecha:
+
+c)	0,25 mW
+
+En este caso ya tenemos en mW por lo cual solo recorremos la coma 3 espacios a la derecha 
+
+d)	0,00667 mW
+Como en el caso anterior ya tenemos en mW por lo cual solo recorreremos la coma 3 espacios a la derecha 
+
+**11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**
+
+Tenemos los siguientes datos P=100 mW debemos transformar a W por lo que P =0,1w
+
+EL tiempo es 24 h por lo que transformaremos a s
+
+Después remplazamos todos los datos en la formula
+
+**13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+Para realizar este ejercicio lo haremos con una regla de tres simple
+
+Por lo que tenemos los siguientes datos t=31 días y P= 1500 KWh
+Transformamos las unidades
+
+**15. Convierta 6700 watts-segundos en kWh.**
+
+En este caso debemos transformar las unidades para lo cual
+
+**17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
+
+Para este ejercicio tenemos los siguientes datos V=75v, I=2A
+
+Usamos la ley de ohm para encontrar el valor de la resistencia
+
+**19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+Para este ejercicio tenemos los datos de V=120v, I=3A
+Usaremos la formula de la potencia en función del voltaje y la corriente
+
+**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+
+Tenemos que buscar la potencia disipada y tenemos los siguientes datos: I=100uApor lo cual le transformaremos I=100*10^-6 A y su R=10KΩ transformamos R=10*10^3Ω
+Y remplazamos en la formula
+
+**23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+
+Para este problema tenemos lo siguiente la batería=1,5v y la R=56 Ω
+
+**25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω
+(a) ¿Cuánta energía se utiliza en dos minutos?
+
+Como necesitanos calcular la energía usamos la siguiente formula
+Despues de obtener la potencia obtenemos la energía:
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+Si se desconecta el resistor, la potencia tiende a ser igual en esos intervalos de tiempos
+
+
+**27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
+
+P=8W
+Para tener un margen de seguridad del 20% usarial la de 12 W por que se debe seleccionar un resistor con un potencial nominal mas alto,pero con solo 20% usaremos el de 12W
+
+**29. Una carga de 50 OHMS utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**
+
+Tenemos que la  R= 50 Ω  y la P= 1W por lo que usaremos la siguiente formula
+
+**31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+
+Primero tomamos los datos del ejercicio 30, tenemos que Vpromedio=1,25v, la R=10 Ω , y buscamos la potencia
+
+Después usamos el t=90h
+
+**33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+
+La clasificación de amperes-hora es la corriente por el número de horas (x).
+
+
+**35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+
+La potencia de salida es la potencia de entrada menos la pérdida de potencia
+
+Eficiencia es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito
+
+**37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+Tenemos que la fuente tiene una potencia de 2W y esta tiene el  60% por lo cual usaremos:
 
 
 ## VIDEO
