@@ -322,6 +322,8 @@ Tenemos que la fuente tiene una potencia de 2W y esta tiene el  60% por lo cual 
 
 ## VIDEO
 
+https://youtu.be/lozMWuJ4GJs
+
 ## CONCLUSIONES
 
 - En conclusión, con la creación organizadores gráficos se logró comprender de mejor manera los temas relacionados a la ley de Ohm, Energía y Potencia, que posteriormente permitirá hacer uso de estas leyes y formulas en circuitos reales.
