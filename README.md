@@ -22,6 +22,8 @@ Organizar la información extraída, por medio de organizadores gráficos, para 
 
 **Energía y Potencia (Capítulo 4)**
 
+![](https://github.com/bavargas5/Tarea2/blob/main/IMG/IMG/Diagrama%20en%20blanco%20(2).png)
+
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **Ley de Ohm **
