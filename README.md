@@ -205,7 +205,7 @@ Después remplazamos todos los datos en la formula
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/14.png)
 
-**13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+**13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
 
 Para realizar este ejercicio lo haremos con una regla de tres simple
 
@@ -235,7 +235,7 @@ Usamos la ley de ohm para encontrar el valor de la resistencia
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/19.png)
 
 
-**19 . Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+**19 . Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**
 
 Para este ejercicio tenemos los datos de V=120v, I=3A
 
@@ -243,7 +243,7 @@ Usaremos la formula de la potencia en función del voltaje y la corriente
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/20.png)
 
-**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.**
 
 Tenemos que buscar la potencia disipada y tenemos los siguientes datos: I=100uA por lo cual le transformaremos I=100*10^-6 A y su R=10KΩ transformamos R=10*10^3Ω
 
@@ -251,7 +251,7 @@ Y remplazamos en la formula
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/21.png)
 
-**23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+**23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**
 
 
 Para este problema tenemos lo siguiente la batería=1,5v y la R=56 Ω
@@ -259,7 +259,7 @@ Para este problema tenemos lo siguiente la batería=1,5v y la R=56 Ω
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/22.png)
 
 **25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω
-(a) ¿Cuánta energía se utiliza en dos minutos?
+(a) ¿Cuánta energía se utiliza en dos minutos?**
 
 Como necesitamos calcular la energía usamos la siguiente formula
 
@@ -286,7 +286,7 @@ Tenemos que la  R= 50 Ω  y la P= 1W por lo que usaremos la siguiente formula
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/25.png)
 
 
-**31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+**31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
 
 
 Primero tomamos los datos del ejercicio 30, tenemos que Vpromedio=1,25v, la R=10 Ω , y buscamos la potencia
@@ -297,14 +297,14 @@ Después usamos el t=90h
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/27.png)
 
-**33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+**33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
 
 
 La clasificación de amperes-hora es la corriente por el número de horas (x).
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/28.png)
 
-**35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+**35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**
 
 ![](https://github.com/bavargas5/Tarea2/blob/main/Imagenes%203/29.png)
 
@@ -314,7 +314,7 @@ La potencia de salida es la potencia de entrada menos la pérdida de potencia
 
 Eficiencia es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito
 
-**37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+**37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**
 
 Tenemos que la fuente tiene una potencia de 2W y esta tiene el  60% por lo cual usaremos:
 
