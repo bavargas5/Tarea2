@@ -48,7 +48,7 @@ Respuesta: La grafica es una línea recta e indica la relación que existen entr
 
 **9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.**
 
-**11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor? **
+**11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?**
 
 **13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:**
 
