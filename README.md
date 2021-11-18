@@ -125,3 +125,9 @@ Primero transformamos los ms en s por lo cual
 ## BIBLIOGRAFÍA
 
 Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
+Pincay Lozada, J. L. (14 de octubre 2020). Ley de Ohn [Vídeo]. Repositorio Institucional UCC. https://repository.ucc.edu.co/handle/20.500.12494/20434
+
+¿Qué es la ley de Ohm? (2021, 5 octubre). Fluke. Recuperado 17 de noviembre de 2021, de https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+Relación entre potencia y energía. (2021, 24 febrero). Kosner. Recuperado 17 de noviembre de 2021, de https://www.kosner.es/relacion-potencia-energia/
