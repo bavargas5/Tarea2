@@ -8,9 +8,9 @@ Organizar la información extraída, por medio de organizadores gráficos, para 
 
 **Específicos**
 
-•	Resumir los contenidos relacionados a los temas estudiados.
-•	Utilizar los conocimientos utilizados para resolver problemas planteados.
-•	Explicar de manera clara el procedimiento para resolver los problemas planteados.
+- Resumir los contenidos relacionados a los temas estudiados.
+- Utilizar los conocimientos utilizados para resolver problemas planteados.
+- Explicar de manera clara el procedimiento para resolver los problemas planteados.
 
 ## MARCO TEÓRICO (RESUMEN)
 
