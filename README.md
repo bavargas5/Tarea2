@@ -118,4 +118,8 @@ Primero transformamos los ms en s por lo cual
 
 ## CONCLUSIONES
 
+- En conclusión, con la creación organizadores gráficos se logró comprender de mejor manera los temas relacionados a la ley de Ohm, Energía y Potencia, que posteriormente permitirá hacer uso de estas leyes y formulas en circuitos reales.
+- Resolver los problemas planteados refuerzan los conocimientos adquiridos, ayudando a reconocer cuales son los posibles casos que se presentarán para aplicar la ley de Ohm, la energía y potencia de manera correcta.
+- Crear un video didáctico el cual explique los ejercicios que se han resuelto hace que el estudiante demuestre todo lo que aprendió al realizar todas las actividades planteadas. 
+
 ## BIBLIOGRAFÍA
