@@ -144,6 +144,7 @@ d) I = 0.6 A, R = 47 Ω
 e) I = 0.1 A, R = 560 Ω
 
 Según la ley de Ohm se estable la siguiente formula:
+
 I = V / R
 
 Con el cual se denota que las 3 denotaciones que ofrece son equivalentes, es posible acomodar el ejercicio para obtener una formula que nos permita sacar otra denotación de ser necesario y en este caso sería el voltaje:
@@ -152,30 +153,46 @@ V = I*R
 
 Teniendo la formula del voltaje aplicamos un reemplazo a cada uno de los literales que exigen el voltaje.
 
+
 a) I = 2 A, R = 18Ω
+
 V = (2 A) * (18Ω)
+
 V = 36 V
 
+
 b) I = 5 A, R = 56 Ω 
+
 V = (5 A) * (56Ω)
+
 V = 280 V
 
+
 c) I = 2.5 A, R= 680 Ω
+
 V = (2.5 A) * (680Ω)
+
 V = 700 V
 
+
 d) I = 0.6 A, R = 47 Ω
+
 V = (0.6 A) * (47Ω)
+
 V = 28.2 V
 
+
 e) I = 0.1 A, R = 560 Ω
+
 V = (0.1 A) * (560Ω)
+
 V = 56 V
 
 25. Se leen tres amperes de corriente a través de un resistor de 27 Ω conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
 Presentamos los valores establecidos:
 
 R = 27 Ω
+
 I = 3 A
 
 De acuerdo al ejercicio se exige sacar el Voltaje. Establecemos la formula del Voltaje:
@@ -185,7 +202,9 @@ V = I * R
 Reemplazamos los respectivos valores en la formula del Voltaje
 
 V = I * R
+
 V = (3 A) * (27 Ω)
+
 V = 81 A
 
 27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente:
@@ -197,8 +216,11 @@ c) Caída de Voltaje a través de cada tramo de alambre
 Presentamos los datos establecidos
 
 R1 = 100 Ω
+
 VT = 6V
+
 d = 12 ft
+
 Calibre = 18 
 
 De acuerdo al ejercicio como primer objetivo tenemos conseguir la intensidad de corriente total del circuito. Establecemos la formula de intensidad de corriente:
@@ -217,19 +239,24 @@ R(Cu) = (6.385 Ω) / (1000 ft)
 
 Se necesita que el valor de la resistencia sea puramente en Ohmios, sin embargo, la longitud del cable nos puede ayudar con ese problema al multiplicarse junto a este
 
-R(Cu) = (6.385 Ω) / (1000 ft) *12 ft
+R(Cu) = (6.385 Ω) / (1000 ft)*12 ft
+
 R(Cu) = 76.62 mΩ
 
 Como ambos cables tienen poseen la misma longitud y material cada uno posee la misma resistencia y ya que tenemos a disposición la resistencia de los cables conductores procedemos a sacar la resistencia equivalente:
 
 RT = R1 + 2*R(Cu)
+
 RT = [100 + 2(76.62 * 10^-3)] Ω
+
 RT = 100.15 Ω
 
 Una ves obtenida la resistencia equivalente procedemos a sacar la intensidad de corriente para completar el literal a).
 
 a) IT = VT / RT
+
 IT = (6 V) / (100.15 Ω)
+
 IT = 59.91 mA
 
 Ahora procedemos con el literal b) el cual exige obtener la caída de voltaje en la resistencia. Asi que presentamos la formula:
@@ -239,21 +266,29 @@ V = I * R
 Hay que tomar en cuenta ahora que datos usar para conseguir únicamente el voltaje de la resistencia. Tomamos el en cuanta que es un circuito en serie y por lo tanto el valor de la intensidad de corriente que necesitamos será el mismo para cada componente en el circuito y usamos el valor de la resistencia común y reemplazamos los datos:
 
 b) V = IT * R1
+
 V = (59.91*10^-3 A) * (100 Ω)
+
 V = 5.991 V
 
 Utilizando el mismo principio que el literal b) reemplazamos los datos lógicamente en c)
 
 c) V = IT * R(Cu)
+
 V = (59.91*10^-3 A) * (76.62 *10^-3 Ω)
+
 V = 4.59 mV
 
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
 a) V = 10 V, I = 2 A
+
 b) V = 7 V, I = 2 mA 
+
 c) V = 500 V, I = 250 mA 
+
 d) V = 50 V, I = 500 µA
+
 e) V = 1 kV, I = 1 mA
 
 Según la ley de Ohm se estable la siguiente formula:
@@ -267,23 +302,37 @@ R = V / R
 Teniendo la formula de la resistencia aplicamos un reemplazo a cada uno de los literales que lo exigen.
 
 a) V = 10 kV, I = 5 A
+
 R = (10*10^3 V) / (5 A)
+
 R = 2 kΩ
+
 
 b) V = 7 V, I = 2 mA 
+
 R = (7 V) / (2*10^-3 A)
+
 R = 3.5 kΩ
 
+
 c) V = 500 V, I = 250 mA 
+
 R = (500 V) / (250*10^-3 A)
+
 R = 2 kΩ
 
+
 d) V = 50 V, I = 500 µA
+
 R = (50 V) / (500*10^-6 A)
+
 R = 0.1 MΩ
 
+
 e) V = 1 kV, I = 1 mA
+
 R = (1*10^3 V) / (1*10^-3 A)
+
 R = 1 MΩ
 
 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
@@ -291,12 +340,15 @@ R = 1 MΩ
 Presentamos los valores establecidos por el ejercicio:
 
 V = 120 V
+
 I = 0.8 A
 
 El ejercicio exige la resistencia del finalmente con el circuito encendido, pero tomando en cuenta que los datos establecidos debido a la presencia del valor del voltaje podemos denotar que la intensidad de corriente también esta dada en un punto cuando el circuito este cerrado por el cual solo se necesita la formula de la resistencia y reemplazamos los datos:
 
 R = V /I
+
 R = (120 V) / (0.8 A)
+
 R = 150 Ω
 
 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
@@ -304,19 +356,25 @@ R = 150 Ω
 Presentamos los datos que ofrece el ejercicio:
 
 V = 100 V
+
 I1 = 750 mA
+
 I2 = 1A
 
 Como literal a) procedemos a ver cuál es el valor de la resistencia cuando tenemos la primera corriente.
 
 a) R1 = V / I1
+
 R1 = 100 V / 750 mA
+
 R1 = 133.33 Ω
 
 Ahora que ya tenemos la resistencia del literal a en este punto con la corriente I1 procedemos a ver cuál sería el valor de reajuste del reóstato con la segunda corriente I2
 
 b) R1 = V / I1
+
 R1 = 100 V / 1 A
+
 R2 = 100 Ω
 
 **CAP 4 3-37**
